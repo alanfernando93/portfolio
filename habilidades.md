@@ -8,5 +8,3 @@
 ## Desarrollo Frontend
 ## Desarrollo de aplicaciones de escritorio
 ## Herramientas utilizados en mi entorno de trabajo
-
-Figma
