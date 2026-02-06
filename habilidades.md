@@ -11,6 +11,36 @@
 ## Diseño de Diagramas UML
 ## Herramientas utilizados en mi entorno de trabajo
 
-# Servicios
+# frameworks
+## Reactjs
+## Nextjs
+## React native
+## Loopback io
+## Express Js
+## Bootstrap
+## wordpress
+## Cakephp
+## Angular
+## Material design
+## Diango
 
-## 
+# lenguajes
+
+## JavaScript
+## HTML5
+## Css
+## Visual Basic
+## Python
+## Java
+## Sql
+## Php
+## Android
+
+# Gestores de base de datos
+
+## MySQL
+## PostgreSQL
+## MariaDb
+## Sql Server
+## MongoDB
+## SqLite
